@@ -1,4 +1,11 @@
 {
+    "login": {
+        "LOGIN_TITLE": "Bienvenido",
+        "LOGIN_SUBTITLE": "a esta nuestra comunidad",
+        "LOGIN_DESCRIPTION": "Introduce tu usuario y contraseña",
+        "LOGIN_ERROR_PASSWORD": "Usuario y contraseña inválidos",
+        "LOGIN_REMEMBER_ME": "Recuérdame"
+    },
     "_config": {
         "textDirection": "ltr"
     },
@@ -11,5 +18,7 @@
         "es": "Español",
         "en": "Ingles",
         "ar": "Arabic"
-    }
+    },
+    "APP_NAME": "Klocalizations",
+    "APP_DESCRIPTION": ""
 }
